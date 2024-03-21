@@ -1,2 +1,3 @@
 let greet = "Hello";
-console.log(greet)
+let sir = "Ameen Alam"
+console.log(greet+ " " + sir)
